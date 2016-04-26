@@ -1,0 +1,240 @@
+Maroon 5 "V" (2014)
+
+Maps
+Animals
+It Was Always You
+Unkiss Me
+Sugar
+Leaving California
+In Your Pocket
+New Love
+Coming Back for You
+Feelings
+My Heart is Open (featuring Gwen Stafani)
+
+"Overexposed" (2012)
+
+One More Night
+Payphone (featuring Wiz Khalifa)
+Daylight
+Lucky Strike
+The Man Who Never Lied
+Ladykiller
+Fortune Teller
+Sad
+Tickets
+Doin' Dirt
+Beautiful Goodbye
+
+Hands All Over (2010)
+
+Misery
+Give a Little More
+Stutter
+Don't Know Nothing
+Never Gonna Leave This Bed
+I Can't Lie
+Hands All Over
+How
+Get Back in My Life
+Just a Feeling
+Runaway
+Out of Goodbyes (with Lady Antebellum)
+
+
+It Won't Be Soon Before Long
+
+If I Never See Your Face Again
+Makes Me Wonder
+Little of Your Time
+Wake Up Call
+Won't Go Home Withough You
+Nothing Lasts Forever
+Can't Stop
+Not Falling Apart
+Kiwi
+Better That We Break
+Back at Your Door
+
+
+"Songs About Jane"
+
+Harder to Breathe
+This Love
+Shiver
+She Will Be Loved
+Tangled
+The Sun
+Must Get Out
+Sunday Morning
+Secret
+Through with You
+Not Coming Home
+Sweetest Goodbye
+
+Band Bio
+
+The story of Maroon 5 begins with a prologue. In 1994, while still in high school, Adam Levine, Jesse Carmichael, Mickey Madden and Ryan Dusick (left the band in 2006) formed the band Kara's Flowers. They were signed to Reprise Records and released an album, The Fourth World, in 1997. The response wasn't great, and the band split up while the musicians attended various colleges.
+
+In 2001 the friends got back together, along with guitaris James Valentine, and Maroon 5 was born. Their first album, Songs about Jane, debuted at number 5 on the Billboard 200 chart. By 2004 the album went platinum and the band won the Grammy Award for Best New Artist in 2005. In 2006, drummer Ryan Dusick left the band after wrist and shoulder injuries and was replaced with Matt Flynn. 
+
+The band released 3 albums over the next 6 years with several very successful songs and three songs ("Makes Me Wonder"-It Won't Be Soon Before Long; "Moves Like Jagger"-2011 Single; and "One More Night"-Overexposed) made it to the #1 spot on the Billboard Hot 100. The band added it's sixth member, keyboardist PJ Morton in 2012. That same year the band took on Sam Farrar as a touring member when Jesse Carmichael began a two year hiatus, Carmichael returning in time to record their fifth studio album, title "V".
+
+https://en.wikipedia.org/wiki/Maroon_5
+http://www.maroon5.com
+https://en.wikipedia.org/wiki/PJ_Morton
+https://en.wikipedia.org/wiki/Matt_Flynn_%28musician%29
+https://en.wikipedia.org/wiki/Jesse_Carmichael
+https://en.wikipedia.org/wiki/Mickey_Madden
+https://en.wikipedia.org/wiki/Adam_Levine
+https://en.wikipedia.org/wiki/James_Valentine_%28musician%29
+
+
+
+ <div class="table-responsive">          
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Member</th>
+        <th>Birth Name</th>
+        <th>Birthday</th>
+        <th>Birthplace</th>
+        <th>Instruments</th>
+        <th>Years w/Band/th>
+    </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Adam Levine</td>
+        <td>Adam Noah Levine</td>
+        <td>Mar 18, 1979</td>
+        <td>Los Angelos, CA</td>
+        <td>Vocals, Guitar, Piano, Drums</td>
+        <td>1994 - Present</td>
+     </tr>
+     <tr>
+        <td>Mickey Madden</td>
+        <td>Michael Allen Madden</td>
+        <td>May 13, 1979</td>
+        <td>Austin, TX</td>
+        <td>Bass Guitar</td>
+        <td>1994 - Present</td>
+     </tr>
+     <tr>
+        <td>Jesse Carmichael</td>
+        <td>Jesse Royal Carmichael</td>
+        <td>Apr 2, 1979</td>
+        <td>Boulder, CO</td>
+        <td>Keyboardist, Vocals</td>
+        <td>1994 - Present</td>
+     </tr>     
+     <tr>
+        <td>James Valentine</td>
+        <td>James Burgon Valentine</td>
+        <td>Oct 5, 1978</td>
+        <td>Lincoln, NE</td>
+        <td>Guitar, Percussion, Vocals, Keyboards</td>
+        <td>2001 - Present</td>
+     </tr>     
+     <tr>
+        <td>Matt Flynn</td>
+        <td>Matthew Flynn</td>
+        <td>May 23, 1970</td>
+        <td>Woodstock, NY</td>
+        <td>Drums</td>
+        <td>2006 - Present</td>
+     </tr>   
+     <tr>
+        <td>PJ Morton</td>
+        <td>Paul Morton, Jr</td>
+        <td>Mar 29, 1981</td>
+        <td>Boulder, CO</td>
+        <td>Vocals, Keyboards, Synthesizers, Piano, Organs</td>
+        <td>2012 - Present</td>
+     </tr>      
+   </tbody>
+ </table>
+</div>
+
+Form
+           <section class="col-sm-12">
+              <form class="form-inline">
+                 <div class="form-group">
+                    <label class="sr-only" for="InputFirstName">First Name</label>
+                    <input type="email" class="form-control" id="InputName" placeholder="First Name Here">
+                     <label class="sr-only" for="InputLastName">Last Name</label>
+                    <input type="email" class="form-control" id="InputName" placeholder="Last Name Here">
+                    <label class="sr-only" for="InputEmail">Email address</label>
+                    <input type="email" class="form-control" id="InputEmail" placeholder="Your Email Here">
+                </div>
+                 <div class="checkbox">
+                     <label><input type="checkbox">Remember me</label>
+                 </div>
+                 <button type="submit" class="btn btn-submit">Register</button>            
+              </form>
+           </section> 
+
+
+
+<div class="container">
+	<div class="row">
+		 <form class="form-horizontal">
+            <fieldset>
+                <!-- Address form -->
+         
+                <h2>Address</h2>
+         
+                <!-- full-name input-->
+                <div class="control-group">
+                    <label class="control-label">Full Name</label>
+                    <div class="controls">
+                        <input id="full-name" name="full-name" type="text" placeholder="full name"
+                        class="input-xlarge">
+                        <p class="help-block"></p>
+                    </div>
+                </div>
+                <!-- address-line1 input-->
+                <div class="control-group">
+                    <label class="control-label">Address Line 1</label>
+                    <div class="controls">
+                        <input id="address-line1" name="address-line1" type="text" placeholder="address line 1"
+                        class="input-xlarge">
+                        <p class="help-block">Street address, P.O. box, company name, c/o</p>
+                    </div>
+                </div>
+                <!-- address-line2 input-->
+                <div class="control-group">
+                    <label class="control-label">Address Line 2</label>
+                    <div class="controls">
+                        <input id="address-line2" name="address-line2" type="text" placeholder="address line 2"
+                        class="input-xlarge">
+                        <p class="help-block">Apartment, suite , unit, building, floor, etc.</p>
+                    </div>
+                </div>
+                <!-- city input-->
+                <div class="control-group">
+                    <label class="control-label">City / Town</label>
+                    <div class="controls">
+                        <input id="city" name="city" type="text" placeholder="city" class="input-xlarge">
+                        <p class="help-block"></p>
+                    </div>
+                </div>
+                <!-- region input-->
+                <div class="control-group">
+                    <label class="control-label">State / Province / Region</label>
+                    <div class="controls">
+                        <input id="region" name="region" type="text" placeholder="state / province / region"
+                        class="input-xlarge">
+                        <p class="help-block"></p>
+                    </div>
+ </select>
+                    </div>
+                </div>
+            </fieldset>
+        </form>
+	</div>
+</div>
+
+
+
+
