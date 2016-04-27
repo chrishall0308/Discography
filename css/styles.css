@@ -67,12 +67,12 @@ table{
   color: #fff;
   cursor: pointer;
   display: inline-block;
-  font-size: 100%;
-  margin: 1% 2%;  
+  font-size: 150%;
   outline: none;
-  padding: 1%;
   text-align: center;	
   text-decoration: none;
+  width: 20%; 
+  margin-bottom: 3%;
   }
 
 .btn:hover{
@@ -120,17 +120,14 @@ p.lead{
     padding: 5% 3% 1%;
     box-shadow: 10px 7px #FFF;
  }
-p.left{
-     border-radius: 30% 0 0 30%;
-     box-shadow: -10px 7px #1E2422;
-}
-p.right{
-     border-radius: 0 30% 30% 0;
-     box-shadow: 10px 7px #1E2422;
-}
-p.bottom{
-      border-radius: 30%; 
-      box-shadow: 10px 7px #1E2422;
+ 
+p.button {
+    padding: 1%;
+    background-color: #FFF;
+    border: none;
+    margin: 2%;
+    text-align: center;
+    font-size: 250%;
 }
 
 p.bios {
@@ -164,15 +161,20 @@ form {
   background: #FFF;
   padding: 3%;
   box-shadow: 10px 7px #718A94;
+  margin: 0 auto;
+  width: 75%;
   }
+
+.center {
+
+}
 
 label {
     line-height: 2em;
 }
 
 p.form-control-static {
-    margin: 0;
-    padding: 0;
+     padding: 0;
     border: none;
     background-color: #545454;
     color: #FFF;
@@ -228,7 +230,5 @@ p.footer,.push{
     
     form{
         border-radius: 0;}
-    .btn {
-        margin-top: 1%;
     }
 }

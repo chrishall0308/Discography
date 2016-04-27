@@ -11,7 +11,7 @@
 </head>
 <body>
   <div class="wrapper">
-    <div class="container-fluid">
+    <div class="container-fluid" id="top">
        <div class="row">
           <section class="col-sm-12">
                 <h1 class="col-sm-10 col-xs-8">Maroon 5 Discography</h1>
@@ -116,7 +116,7 @@
   <div class="row">
   <div class="col-md-4">
       <p class="bios">James Valentine</p>  
-      <img class="img-thumbnail" src="images/jamesvalentine.jpg" alt="Mickey Madden" width="200" height="100">
+      <img class="img-thumbnail" src="images/jamesvalentine.jpg" alt="James Valentine" width="200" height="100">
   </div>    
   <div class="col-md-4">
       <p class="bios">Matt Flynn</p>  
@@ -129,27 +129,28 @@
 </div>
 
 <!--Main Nav-->
-          <section class="col-sm-12">
+           <p class="button">Maroon 5 Albums</p>
+          <section class="col-sm-12 btn-group-lg">
               <a href="#v"   class="btn btn-default text-break">V</a>
               <a href="#over"   class="btn btn-default text-break">Overexposed</a>
               <a href="#hands"   class="btn btn-default text-break">Hands All Over</a>
               <a href="#long"   class="btn btn-default text-break">It Won't Be Soon Before Long</a>
          </section>
     
-<section class="col-sm-6">
+<section class="col-md-12 center">
               <form class="form-horizontal">
                  <div class="form-group">
                      <p class="bios">Join our fan group! Register below.</p>
                     <label for="InputFirstName">First Name</label>
-                    <input type="text" class="form-control" id="InputName" placeholder="Enter First Name Here">
+                    <input type="text" class="form-control" id="InputFirstName" placeholder="Enter First Name Here">
                     <label for="InputLastName">Last Name</label>
-                    <input type="text" class="form-control" id="InputName" placeholder="Enter Last Name Here">
+                    <input type="text" class="form-control" id="InputLastName" placeholder="Enter Last Name Here">
                     <label for="InputBirthday">Birthday (mm/dd/yyyy)</label>
-                    <input type="date" class="form-control" id="InputName" placeholder="Enter Birthday Here">
-                    <label for="InputSreetAddress">Street Address (incl Apt/Unit)</label>
-                    <input type="text" class="form-control" id="InputName" placeholder="Enter Street Address Here">
-                    <label for="InputCityStateZip">City, State and Zip Code</label>
-                    <input type="text" class="form-control" id="InputName" placeholder="Enter City, State & Zip Code Here">
+                    <input type="date" class="form-control" id="InputBirthday" name="Enter Birthday Here">
+                    <label class="control-label">Street Address</label>
+                    <input type="text" class="control-label" id="InputStreetAddress" placeholder="Enter Street Address Here incl Apt/Unit">
+                    <label class="control-label">City, State and Zip Code</label>
+                    <input type="text" class="control-label" id="InputCityStateandZipCode" placeholder="Enter City, State & Zip Code Here">
                     <label for="InputEmail">Email address</label>
                     <input type="email" class="form-control" id="InputEmail" placeholder="Enter Your Email Here">
                 </div>
@@ -158,12 +159,12 @@
                     <div class="col-sm-9">
                         <div class="checkbox">
                             <label>
-                                <input type="checkbox" id="calorieCheckbox" value="Low calorie">HTML
+                                <input type="checkbox" id="htmlCheckbox" value="html">HTML
                             </label>
                         </div>
                         <div class="checkbox">
                             <label>
-                                <input type="checkbox" id="saltCheckbox" value="Low salt">Plain Text
+                                <input type="checkbox" id="plaintextCheckbox" value="plaintextCheckbox">Plain Text
                             </label>
                         </div>
                     </div>
@@ -191,6 +192,7 @@
                    <li class="list-group-item">Feelings</li>
                    <li class="list-group-item">My Heart is Open (featuring Gwen Stefani)</li>
                </ul>
+               <a href="#top" class="btn btn-default text-break">Back to Top</a>
            </section>
            
            <section class="col-sm-12 details">
@@ -209,6 +211,7 @@
                    <li class="list-group-item">Doin' Dirt</li>
                    <li class="list-group-item">Beautiful Goodbye</li>
                </ul>
+               <a href="#top" class="btn btn-default text-break">Back to Top</a>
            </section>
            
            <section class="col-sm-12 details">
@@ -228,6 +231,7 @@
                    <li class="list-group-item">Runaway</li>
                    <li class="list-group-item">Out of Goodbyes (with Lady Antebellum)</li>
                </ul>
+               <a href="#top" class="btn btn-default text-break">Back to Top</a>
            </section>
            
            <section class="col-sm-12 details">
@@ -246,6 +250,7 @@
                    <li class="list-group-item">Better That We Break</li>
                    <li class="list-group-item">Back at Your Door</li>
                </ul>
+               <a href="#top" class="btn btn-default text-break">Back to Top</a>
            </section>           
            
 <!--Social Media-->  
